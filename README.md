@@ -1,5 +1,9 @@
 # morse
+
 morse to string
+
+string to morse
+
 
  ## USAGE
 
